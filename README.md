@@ -84,8 +84,8 @@
 ### 1. Clone & Configure
 
 ```bash
-git clone https://github.com/yourusername/prometheus-monitoring-stack.git
-cd prometheus-monitoring-stack
+git clone https://github.com/eng-Ahmed-Kamel/monitoring_lab_gmail-mailpit-telegram-slack-prometheus-.git
+cd monitoring_lab_gmail-mailpit-telegram-slack-prometheus-
 
 # Copy example config and edit with your secrets
 cp alertmanager/alertmanager.yml.example alertmanager/alertmanager.yml
